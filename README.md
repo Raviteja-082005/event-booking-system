@@ -120,11 +120,6 @@ To enable:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your pages here)*
-
----
 
 ## 👨‍💻 Author
 
