@@ -5,7 +5,30 @@ A full-stack event booking web application built with the MERN stack (MongoDB, E
 ![EventBook](https://img.shields.io/badge/MERN-Stack-blue) ![License](https://img.shields.io/badge/license-ISC-green)
 
 ---
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](screenshots/Home_page.png)
+
+### 🎭 Events Page
+![Events](screenshots/Events_page.png)
+
+### 🎫 Event Details
+![Event](screenshots/Example_event.png)
+
+### 🔐 Login Page
+![Login](screenshots/Login_page.png)
+
+### 📝 Registration Page
+![Register](screenshots/Registration_page.png)
+
+### 🎟️ My Bookings
+![Bookings](screenshots/My_bookings_page.png)
+
+### ⚙️ Admin Dashboard
+![Admin](screenshots/Admin_page.png)
+
+---
 ## 🚀 Features
 
 - 🔐 **Authentication** — Register/Login with JWT tokens
